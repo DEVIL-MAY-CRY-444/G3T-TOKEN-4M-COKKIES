@@ -14,11 +14,26 @@ This Is A Tools That Can Generate Facebook Token From Cookies
 
 ## Installation
 
-Install my-project with npm
+Install my-project with 😈👇💕
 
-```bash
-  npm install my-project
-  cd my-project
+```
+
+pkg install python
+
+pip install colorama
+
+pip install bs4
+
+pip install requests
+
+
+git clone https://github.com/DEVIL-MAY-CRY-444/G3T-TOKEN-4M-COKKIES
+
+
+cd G3T-TOKEN-4M-COKKIES
+
+
+python run.py
 ```
     
 ## Screenshots
